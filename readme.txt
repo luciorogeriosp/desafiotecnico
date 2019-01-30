@@ -15,6 +15,11 @@ Os projetos forem divididos de acordo com a sua responsabilidade conforme segue:
 		Cadastro de vagas
 		Cadastro de pessoas
 		Captura de ranking por vaga
+		
+	* ProcessoSeletivo.NTest
+		Testes unitários focados nas entradas de dados dos endpoints de
+			Cadastro de Vagas
+			Cadastro de pessoas
 
 O deploy foi feito utilizando Docker, e é possível capturar através do comando:
 	docker pull luciorogeriosp/processoseletivoapi
