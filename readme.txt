@@ -19,8 +19,5 @@ Os projetos forem divididos de acordo com a sua responsabilidade conforme segue:
 O deploy foi feito utilizando Docker, e é possível capturar através do comando:
 	docker pull luciorogeriosp/processoseletivoapi
 
-A solução está publicada no GitHub na url:
-	https://github.com/luciorogeriosp/desafiotecnico
-
 Para rodar a aplicação basta definir o projeto ProcessoSeletivoAPI como padrão, e acionar os endpoints através de um programa externo como SoapUI/Postman
 
